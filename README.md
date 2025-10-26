@@ -1,4 +1,4 @@
-<p align="center">‹ Este perfil só funciona no tema escuro do GitHub ›</p>
+
 
 <br>
 <a href="#"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=292929&section=header"/></a>
