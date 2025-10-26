@@ -17,14 +17,35 @@
 
 <br>
 
-<div align="center" style="background-color:#1e1e1e; padding:20px; border-radius:15px; display:inline-block; text-align:left; max-width:550px;">
-  <p style="margin:4px 0; line-height:1.3em;"><strong>Nome:</strong> XsadnessZ</p>
-  <p style="margin:4px 0; line-height:1.3em;"><strong>Status:</strong> Editor & Criador de Conteúdo</p>
-  <p style="margin:4px 0; line-height:1.3em;"><strong>Aprendendo:</strong> Programação Fullstack, Plugins Minecraft, Node.js, Python</p>
-  <p style="margin:4px 0; line-height:1.3em;"><strong>Habilidades:</strong> Cinematics para FiveM, Animações, Design Gráfico, Desenvolvimento de Servidores</p>
-  <p style="margin:4px 0; line-height:1.3em;"><strong>Localização:</strong> Brasil 🇧🇷</p>
-  <p style="margin:4px 0; line-height:1.3em;"><strong>Hobbies:</strong> Criar conteúdo, programação, animação e edição de vídeos</p>
+<div align="center" style="background-color:#1e1e1e; padding:25px 30px; border-radius:15px; display:inline-block; max-width:550px;">
+  <table style="width:100%; border-collapse: collapse;">
+    <tr>
+      <td style="padding:4px 8px; vertical-align:top;"><strong>👤 Nome:</strong></td>
+      <td style="padding:4px 8px;">XsadnessZ</td>
+    </tr>
+    <tr>
+      <td style="padding:4px 8px; vertical-align:top;"><strong>💼 Status:</strong></td>
+      <td style="padding:4px 8px;">Editor & Criador de Conteúdo</td>
+    </tr>
+    <tr>
+      <td style="padding:4px 8px; vertical-align:top;"><strong>📚 Aprendendo:</strong></td>
+      <td style="padding:4px 8px;">Programação Fullstack, Plugins Minecraft, Node.js, Python</td>
+    </tr>
+    <tr>
+      <td style="padding:4px 8px; vertical-align:top;"><strong>🛠 Habilidades:</strong></td>
+      <td style="padding:4px 8px;">Cinematics para FiveM, Animações, Design Gráfico, Desenvolvimento de Servidores</td>
+    </tr>
+    <tr>
+      <td style="padding:4px 8px; vertical-align:top;"><strong>📍 Localização:</strong></td>
+      <td style="padding:4px 8px;">Brasil 🇧🇷</td>
+    </tr>
+    <tr>
+      <td style="padding:4px 8px; vertical-align:top;"><strong>🎮 Hobbies:</strong></td>
+      <td style="padding:4px 8px;">Criar conteúdo, programação, animação e edição de vídeos</td>
+    </tr>
+  </table>
 </div>
+
 
 <br><br>
 <hr>
