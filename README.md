@@ -28,16 +28,7 @@
 
 <br>
 
-<p align="center"><strong>Projetos em Destaque</strong></p>
 
-<div align="center">
-  <a href="https://github.com/XsadnessZ/Servidor-Minecraft">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=XsadnessZ&repo=Servidor-Minecraft&theme=github_dark&border_radius=10" width="250" style="margin: 10px;"/>
-  </a>
-  <a href="https://github.com/XsadnessZ/Plugins-e-Tools">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=XsadnessZ&repo=Plugins-e-Tools&theme=github_dark&border_radius=10" width="250" style="margin: 10px;"/>
-  </a>
-</div>
 
 
 <table>
