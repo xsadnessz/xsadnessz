@@ -7,12 +7,6 @@
 
 <br><br>
 
-<pre>
-<code class="zsh">
-> neofetch
-</code>
-</pre>
-
 <a href="#"><img align="left" src="https://i.imgur.com/JhzP1sq.png" width="20%"/></a>
 
 <pre>
