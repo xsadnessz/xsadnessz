@@ -1,7 +1,7 @@
 <p align="center">‹ Este perfil só funciona no tema escuro do GitHub ›</p>
 
 <br>
-<a href="#"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FFFFFF&section=header"/></a>
+<a href="#"><img width="100%" src="[https://capsule-render.vercel.app/api?type=waving&height=100&color=FFFFFF&section=header](https://capsule-render.vercel.app/api?type=waving&height=202&color=&color=gradient&customColorList=0,2,2,5,30&textBg=false&reversal=false)"/></a>
 <a href="#"><img width="100%" src="https://readme-typing-svg.herokuapp.com?font=SUSE&size=30&pause=2000&color=FFFFFF&center=true&vCenter=true&width=1000&height=60&lines=Ol%C3%A1%2C+tudo+bem%3F+Me+chamo+DarkMode!;Seja+bem-vindo(a)+ao+meu+perfil."/></a>
 
 <br><br>
