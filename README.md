@@ -17,14 +17,15 @@
 
 <br>
 
-<div align="center" style="background-color:#1e1e1e; padding:20px; border-radius:15px; display:inline-block; text-align:left; line-height:1.5em; max-width:500px;">
-  <p><strong>Nome:</strong> XsadnessZ</p>
-  <p><strong>Status:</strong> Editor & Criador de Conteúdo</p>
-  <p><strong>Atualmente Aprendendo:</strong> Programação Fullstack, Plugins Minecraft, Node.js, Python</p>
-  <p><strong>Habilidades:</strong> Cinematics para FiveM, Animações, Design Gráfico, Desenvolvimento de Servidores</p>
-  <p><strong>Localização:</strong> Brasil 🇧🇷</p>
-  <p><strong>Hobbies:</strong> Criar conteúdo, programação, animação e edição de vídeos</p>
+<div align="center" style="background-color:#1e1e1e; padding:20px; border-radius:15px; display:inline-block; text-align:left; max-width:500px;">
+  <p style="margin:4px 0; line-height:1.2em;"><strong>Nome:</strong> XsadnessZ</p>
+  <p style="margin:4px 0; line-height:1.2em;"><strong>Status:</strong> Editor & Criador de Conteúdo</p>
+  <p style="margin:4px 0; line-height:1.2em;"><strong>Atualmente Aprendendo:</strong> Programação Fullstack, Plugins Minecraft, Node.js, Python</p>
+  <p style="margin:4px 0; line-height:1.2em;"><strong>Habilidades:</strong> Cinematics para FiveM, Animações, Design Gráfico, Desenvolvimento de Servidores</p>
+  <p style="margin:4px 0; line-height:1.2em;"><strong>Localização:</strong> Brasil 🇧🇷</p>
+  <p style="margin:4px 0; line-height:1.2em;"><strong>Hobbies:</strong> Criar conteúdo, programação, animação e edição de vídeos</p>
 </div>
+
 
 
 
